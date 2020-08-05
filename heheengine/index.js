@@ -15,7 +15,8 @@ searchForm.onsubmit = (e) => {
     e.preventDefault()
 
     const sv = searchBox.value
-    goo(sv)
+//     goo(sv)
+    window.location.replace('https://finngreiter.github.io/heheengine?q=' + sv)
 }
 
 if (params.has('q')) goo(params.get('q'))
