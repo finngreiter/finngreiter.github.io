@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Post Waffles</title>
+<description>
+Finn &amp; Gus Do Random Things.
+</description>
+<itunes:image href="https://finngreiter.github.io/post_waffles/pw_art_v6.png"/>
+<language>en-us</language>
+<itunes:category text="Leisure">
+<itunes:explicit>false</itunes:explicit>
+<itunes:author>Finn &amp; Gus</itunes:author>
+<copyright>&#169; 2020 PWP</copyright>
+
+<item>
+<title>Monopoly</title>
+<enclosure 
+url="https://finngreiter.github.io/post_waffles/audio/PW001.mp3"
+length="7818010"
+type="audio/mpeg"
+/>
+<pubDate>Wed, 28 Oct 2020 07:43:00 GMT</pubDate>
+<duration>525</duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+
+</channel>
+</rss>
