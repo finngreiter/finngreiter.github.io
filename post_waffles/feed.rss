@@ -5,7 +5,7 @@
 <description>
 Finn &amp; Gus Do Random Things.
 </description>
-<itunes:image href="https://finngreiter.github.io/post_waffles/pw_art_v6.png"/>
+<itunes:image href="https://finngreiter.github.io/post_waffles/pw_art_v5.png"/>
 <language>en-us</language>
 <itunes:category text="Leisure"/>
 <itunes:explicit>false</itunes:explicit>
@@ -18,6 +18,14 @@ url="https://finngreiter.github.io/post_waffles/audio/PW001.mp3"
 length="7818010"
 type="audio/mpeg"
 />
+<description>
+<![CDATA[
+<a href="https://www.walmart.com/ip/Monopoly-Game-80th-Anniversary/42068307
+">80th Anniversary Monopoly Set</a>
+<a href="https://en.wikipedia.org/wiki/List_of_London_Monopoly_locations">British Monopoly Property Names</a>
+]]>
+</content:encoded>
+</description>
 <pubDate>Wed, 28 Oct 2020 07:43:00 GMT</pubDate>
 <duration>525</duration>
 <itunes:explicit>false</itunes:explicit>
