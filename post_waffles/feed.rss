@@ -28,6 +28,7 @@ type="audio/mpeg"
 <pubDate>Wed, 28 Oct 2020 07:43:00 GMT</pubDate>
 <duration>08:45</duration>
 <itunes:explicit>false</itunes:explicit>
+<itunes:episode>1</itunes:episode>
 </item>
 </channel>
 </rss>
