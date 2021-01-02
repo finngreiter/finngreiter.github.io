@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  overflow-wrap: break-word;
+  overflow-y: scroll;
+}
+
+.m {
+  font-family: monospace;
+}
